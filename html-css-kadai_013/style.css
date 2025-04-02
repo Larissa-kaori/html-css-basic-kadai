@@ -87,6 +87,7 @@ PC用のスタイル
   #menu-sp{
     float: right;
     padding: 0;
+    border: none;
   }
 
   #nav-sp{
@@ -106,6 +107,7 @@ PC用のスタイル
 
   #nav-sp li{
     list-style: none;
+    margin-bottom: 15px;
   }
 
   #close{
@@ -151,4 +153,6 @@ PC用のスタイル
     background-repeat: no-repeat;
     background-position: right top;
   }
+
+
 }
